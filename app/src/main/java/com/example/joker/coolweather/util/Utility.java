@@ -5,8 +5,6 @@ import android.text.TextUtils;
 import com.example.joker.coolweather.db.City;
 import com.example.joker.coolweather.db.County;
 import com.example.joker.coolweather.db.Province;
-import com.google.gson.Gson;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;

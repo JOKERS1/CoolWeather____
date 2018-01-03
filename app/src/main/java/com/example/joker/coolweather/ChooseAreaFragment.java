@@ -1,7 +1,6 @@
 package com.example.joker.coolweather;
 
 import android.app.ProgressDialog;
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -35,9 +34,6 @@ import okhttp3.Response;
  */
 
 public class ChooseAreaFragment extends Fragment {
-
-    private static final String TAG = "ChooseAreaFragment";
-
     public static final int LEVEL_PROVINCE = 0;
 
     public static final int LEVEL_CITY = 1;
